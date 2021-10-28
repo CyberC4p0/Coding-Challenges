@@ -1,9 +1,13 @@
 #include <stdio.h>
 
 int main(void)
-{
-	int sentence[50];
-	
-	printf("Sentence: ", );
-	scanf()
+{	
+	char sentence;
+
+	printf("Sentence: ");
+	scanf("%s", sentence);
+
+	printf("Input & Output Test: %s\n", sentence);
+
+	return(0);
 }
