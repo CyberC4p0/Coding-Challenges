@@ -1,2 +1,2 @@
-# Code-Wars
-Code Wars challenges to sharpen my programming skills.
+# Online Coding Challenges
+Online coding challenges to sharpen my programming skills.
