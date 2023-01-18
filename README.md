@@ -1,2 +1,2 @@
-# Online Coding Challenges
-Online coding challenges to sharpen my programming skills.
+# Coding Challenges
+Coding challenges to sharpen my programming skills.
